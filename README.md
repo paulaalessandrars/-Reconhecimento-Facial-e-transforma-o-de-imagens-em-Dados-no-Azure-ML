@@ -41,7 +41,7 @@ Agora que o recurso foi criado, vamos acessar o **Portal de Visão da IA**:
 
 O primeiro teste realizado foi a detecção de faces nas imagens. Ao clicar em **Face**, enviamos as imagens e a IA foi capaz de identificar os atributos da face, gerando um código **JSON** detalhado com a descrição e os dados identificados.
 
-![Teste de Detecção de Face](https://github.com/Edivania88Duarte/Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/120994730/8e927d03-1e83-4cc7-a114-6ad111b4c0d4)
+![Teste de Detecção de Face](Assets/images/facedetection.png)
 
 ---
 
@@ -51,7 +51,7 @@ O segundo teste envolveu a análise de textos em imagens. Com a funcionalidade d
 
 Basta clicar em **Optical Character Recognition (OCR)**, enviar a foto e ver a magia acontecer!
 
-![Teste de OCR em Imagem](https://github.com/Edivania88Duarte/Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/120994730/994f35cd-1227-4c76-a6fa-6df1f61023e5)
+![Teste de OCR em Imagem](Assets/images/grosserylist.png)
 
 ---
 
@@ -61,7 +61,7 @@ Na terceira etapa, exploramos a análise de cenários nas imagens. Ao usar a fun
 
 Clique em **Image Analysis**, depois em **Add captions to images**, envie a imagem e descubra como a IA pode transformar a análise visual em dados úteis.
 
-![Análise de Cenário em Imagem](https://github.com/Edivania88Duarte/Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/120994730/d6e1141b-400a-438d-8a95-06173eec94fb)
+![Análise de Cenário em Imagem](Assets/images/montaincabin.png)
 
 ---
 
